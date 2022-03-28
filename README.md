@@ -14,6 +14,6 @@ git clone https://github.com/Nafees7/Super-Mario-Game.git
 ## Installation:
 > python -m pip install -r requirements.txt
 ## How to run:
-> cd Super-Mario-Game
+> cd Super-Mario-Game <br/>
 > python main.py
 #### Created by Nafees Ur Rehman 
